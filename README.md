@@ -1,2 +1,11 @@
-# movies
-movies - APIS REST con JSON y Fetch API + Async / Await -  JavaScript
+# Movies
+Author: Alberto Concovia
+
+# Skills
+movies - 
+APIS REST 
+JSON 
+Fetch API 
+Async / Await
+BootStrap
+JavaScript
